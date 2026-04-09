@@ -16,7 +16,7 @@ VinmecPrep AI là working prototype chatbot giúp bệnh nhân:
 
 Stack: **LangGraph ReAct Agent** · **FastAPI** · **Kafka + Redis Streams** · **Weaviate RAG** · **LiteLLM** (Groq / vLLM) · **SearXNG** · **Docker Compose**
 
-**→ Repo nhóm:** *(link group repo)*
+**→ Repo nhóm:** https://github.com/Quyenm/Nhom26-E403-Day06
 
 ---
 
